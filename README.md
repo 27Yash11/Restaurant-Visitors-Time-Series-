@@ -1,4 +1,4 @@
-Restaurant Visitors Forecasting using Time Series Analysis:
+**Restaurant Visitors Forecasting using Time Series Analysis:**
 
 The aim of this project is to forecast the number of visitors for a restaurant using time series analysis. The project utilizes a dataset containing historical data of the number of visitors in a restaurant over a period of time.
 
